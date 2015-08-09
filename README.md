@@ -15,3 +15,7 @@ For this, use the --check-master flag.
 
 - It can check the mirrors provided in the metalink whether they have a valid repomd.
 For this, use the --check-mirrors flag.
+
+- IRC support,  if experiencing   repeated  misses on dnf update || dnf upgrade run with  fpaste and  share the link.  Sample  cmd code:
+
+./ckeck_metalinks |fpaste  
